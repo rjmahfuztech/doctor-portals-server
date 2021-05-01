@@ -1,6 +1,6 @@
 # doctor-portals-server
 
-### [visit website](https://doctor-portals.netlify.app/) | [live API server](https://vast-gorge-08839.herokuapp.com/)
+    [visit website](https://doctor-portals.netlify.app/) | [live API server](https://vast-gorge-08839.herokuapp.com/)
 
 ### Front-End Technology
 
@@ -18,4 +18,4 @@
 
 
     
-    [view front-end code](https://github.com/rjmahfuztech/doctor-portals)
+     [view front-end code](https://github.com/rjmahfuztech/doctor-portals)
